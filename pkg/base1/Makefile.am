@@ -84,7 +84,6 @@ basefonts_DATA = \
 	$(NULL)
 
 base_TESTS = \
-	pkg/base1/test-base64.html \
 	pkg/base1/test-utf8.html \
 	pkg/base1/test-events.html \
 	pkg/base1/test-chan.html \

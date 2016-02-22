@@ -175,7 +175,6 @@ WS_CHECKS = \
 	test-webservice \
 	test-channelresponse \
 	test-handlers \
-	test-kerberos \
 	$(NULL)
 
 test_auth_CFLAGS = $(cockpit_ws_CFLAGS)

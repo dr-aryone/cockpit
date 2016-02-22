@@ -44,7 +44,6 @@ registry_MODULES = \
 	$(NULL)
 
 registry_TESTS = \
-	pkg/registry/tests/test-kube-client.html \
 	pkg/registry/tests/test-images.html \
 	pkg/registry/tests/test-projects.html \
 	$(NULL)
